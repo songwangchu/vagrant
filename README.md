@@ -36,3 +36,9 @@ https://www.jianshu.com/p/db42f0400ba7
 
 ## 多 PHP 版本共存的环境下安装 Swoole 到指定版本
 https://laravel-china.org/articles/20612
+
+## 如果正在使用vagrant，或者感兴趣成为大牛的朋友，欢迎你的到来。
+群名称：
+vagrant-学习中心
+群   号：
+856440209
